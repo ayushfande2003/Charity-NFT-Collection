@@ -1,0 +1,16 @@
+[project]
+name = "charity-nft"
+authors = ["Ayush <ayushfande2003@gmail.com>"]
+description = "Charity NFT Collection - owner mints NFTs and tracks donations"
+telemetry = false
+version = "0.1.0"
+
+[contracts.charity-nft]
+path = "contracts/charity-nft.clar"
+clarity_version = 3
+
+[networks]
+default = "testnet"
+
+[networks.testnet]
+rpc_url = "https://stacks-node-api.testnet.stacks.co"
