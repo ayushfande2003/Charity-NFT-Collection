@@ -24,3 +24,4 @@ Our vision is to create a decentralized platform where artists and supporters ca
 - Front-end interface for easier minting and donation tracking.
 
 ## 5. Contract Address
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3394c894-874f-4252-a914-bc401e74ea6a" />
